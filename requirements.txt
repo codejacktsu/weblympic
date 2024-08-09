@@ -2,3 +2,4 @@ pandas
 numpy
 flask
 fastapi[standard]
+nicegui
